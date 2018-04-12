@@ -1,3 +1,13 @@
+/**
+* To help you with your think, consider the two data samples produced by the OpenWeatherMap RESTful Web API provided. 
+* You can go through a quick tutorial on JSON at https://www.w3schools.com/js/js_json_intro.asp to help you understand 
+* what you are reading. You may stop at the JSON Arrays sub-topic.
+* 
+* The OpenWeatherMapAPI developers also highlighted the following on their documentation: 
+* If you do not see some of the parameters in your API respond it means that these weather phenomena are just not happened 
+* for the time of measurement for the city or location chosen. Only really measured or calculated data is displayed in API respond.
+**/
+
 {
   "_comment": "Data Sample 1: 5 Day / 3 Hour API Response from OpenWeatherMap.org",
   "city":
